@@ -1,3 +1,7 @@
+## Install Dependencies
+
+`npm install`
+
 ## Start Development
 
 `npm start`
