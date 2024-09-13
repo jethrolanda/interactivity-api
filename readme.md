@@ -14,7 +14,7 @@
 
 `npx @wordpress/create-block@latest blockname --template @wordpress/create-block-interactive-template`
 
-## Gutenberg Data
+## Settings - Gutenberg Data
 
 `https://developer.wordpress.org/block-editor/how-to-guides/data-basics/`
 
